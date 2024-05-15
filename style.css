@@ -96,3 +96,14 @@
     color: black;
     background-color: var(--primary-Green);
   }
+
+a:hover{
+    /* color: inherit; */
+    color: black;
+    /* background-color: var(--primary-Green); */
+  }
+
+  button:target{
+    color: black;
+    background-color: var(--primary-Green);
+  }
